@@ -893,6 +893,7 @@ transform: translate(-50%, -50%) scale(0.9);
    }
       .checkbox-agreem:focus{
          border: 2px solid var(--accent-color);
+         border-radius: 2px;
          width: 16px;
          height: 15px;
 
